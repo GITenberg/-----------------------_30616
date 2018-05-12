@@ -1,0 +1,42 @@
+_repo: '-----------------------_30616'
+_version: 0.1.0
+alternative_title: Homer's Odyssey, Volume D
+contributor:
+  translator:
+    agent_name: Polylas, Iakovos
+    aliases:
+    - Πολυλάς, ¨Ιάκωβος
+    - Πολυλάς, Ιάκωβος
+    - Polylas, Iakobos
+    birthdate: 1826
+    deathdate: 1898
+    gutenberg_agent_id: '34711'
+    url: http://www.gutenberg.org/2009/agents/34711
+    wikipedia: http://el.wikipedia.org/wiki/%CE%99%CE%AC%CE%BA%CF%89%CE%B2%CE%BF%CF%82_%CE%A0%CE%BF%CE%BB%CF%85%CE%BB%CE%AC%CF%82
+covers:
+- cover_type: archival
+  image_path: 30616-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_issued: '2009-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30616'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Epic poetry, Greek'
+- !lcsh 'Odysseus, King of Ithaca (Mythological character) -- Poetry'
+title: Ομήρου Οδύσσεια Τόμος Δ
+url: http://www.gutenberg.org/ebooks/30616
