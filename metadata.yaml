@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/705
     wikipedia: http://en.wikipedia.org/wiki/Homer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30616#-----------------------
 gutenberg_issued: '2009-12-06'
 gutenberg_type: Text
 identifiers:
